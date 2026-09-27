@@ -16,5 +16,4 @@ The application uses food CPI and exchange-rate data for Lebanon.
 
 # App Link
 
-[View the Interactive Lebanon Food Inflation App](https://lebanon-food-inflation-gtqk9z3pgq7ujo73app9hxq.streamlit.app/
-)
+[View the Interactive Lebanon Food Inflation App](https://lebanon-food-inflation.streamlit.app/)
